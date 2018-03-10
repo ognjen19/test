@@ -8,7 +8,7 @@ public class Main {
 		
 		System.out.println("con1");
 		
-		System.out.println("con2");
+		System.out.println("conflict2");
 		
 	}
 
