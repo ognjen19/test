@@ -6,9 +6,9 @@ public class Main {
 
 		System.out.println("hello world ogi");
 		
-		System.out.println("conflicts1");
+		System.out.println("conflict1");
 		
-		System.out.println("conflicts2");
+		System.out.println("conflict2");
 		
 	}
 
